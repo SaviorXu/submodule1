@@ -1,2 +1,4 @@
 this is submodule1 first commit
 this is main second commit
+this is branch2 first commit
+this is branch2 second commit
